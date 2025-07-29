@@ -79,8 +79,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/TawfikYasser/flink-etl-streaming.git
-   cd flink-etl-streaming
+   git clone https://github.com/sethuaung/Kibana_Dashboard_ETL.git
+   cd Kibana_Dashboard_ETL
    ```
 
 2. **Start the Docker containers**:
@@ -145,7 +145,7 @@ Before you begin, ensure you have met the following requirements:
 ## 📁 PROJECT STRUCTURE
 
 ```bash
-flink-etl-streaming/
+Kibana_Dashboard_ETL/
 ├── docker-compose.yml        # Docker Compose configuration
 ├── main.py                   # Python script to generate and send data to Kafka
 ├── kibanaDashboard.png       # Screenshot of Kibana dashboard
